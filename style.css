@@ -1,0 +1,35 @@
+body{
+    background:rgb(236, 16, 137);
+}
+#box{
+    width:600px;
+    background:whitesmoke;
+    border:7px solid black;
+    box-shadow: black;
+     margin:auto;
+    padding:5%;
+    margin-top:7%;
+
+}
+h1{
+    color: blue;
+}
+h2{
+    color:red;
+}
+h3{
+    color:green;
+}
+#num{
+    color:gold;
+}
+#result{
+    background:black;
+    height:25px;
+    width:fit-content;
+    margin:auto;
+    margin-top:25px;
+    color:aqua;
+    font-sixe:large;
+
+}
